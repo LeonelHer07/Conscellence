@@ -14,17 +14,17 @@ Conscellence es un proyecto personal para practicar **ReactJS**. Se trata de una
 
 Clona el repositorio e instala las dependencias:
 
-```bash
-# Clonar el repositorio
-git clone https://github.com/tu-usuario/conscellence.git
+    ```bash
+    # Clonar el repositorio
+    git clone https://github.com/tu-usuario/conscellence.git
 
-# Entrar a la carpeta del proyecto
-cd conscellence
+    # Entrar a la carpeta del proyecto
+    cd conscellence
 
-# Instalar dependencias
-npm install
+    # Instalar dependencias
+    npm install
 
-# Ejecutar la aplicación en modo desarrollo
-npm start
+    # Ejecutar la aplicación en modo desarrollo
+    npm start
 
 [Ver demo](https://leonelher07.github.io/conscellence/)
