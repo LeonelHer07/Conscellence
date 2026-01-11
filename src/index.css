@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@200..900&display=swap');
+@import "tailwindcss";
+
+@import "bootstrap-icons/font/bootstrap-icons";
+
+body {
+
+    font-family: "Unbounded", sans-serif;
+}
